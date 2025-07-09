@@ -94,19 +94,19 @@
     "url": "https://i.haz.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/i.haz.wiki.ico",
     "slug": "wiki-farm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 752,
-    "timeWeek": 771,
-    "timeMonth": 1017,
-    "timeYear": 938,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 947,
+    "timeDay": 964,
+    "timeWeek": 840,
+    "timeMonth": 1028,
+    "timeYear": 947,
     "dailyMinutesDown": {
-      "2025-07-09": 0
+      "2025-07-09": 12
     }
   }
 ]

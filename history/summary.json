@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.splitbrain.org.ico",
     "slug": "splitbrain-org",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 774,
-    "timeWeek": 804,
-    "timeMonth": 791,
-    "timeYear": 774,
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 772,
+    "timeDay": 747,
+    "timeWeek": 788,
+    "timeMonth": 787,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-07-13": 0
+      "2025-07-13": 12
     }
   },
   {

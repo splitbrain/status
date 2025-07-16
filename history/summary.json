@@ -4,18 +4,20 @@
     "url": "https://www.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.splitbrain.org.ico",
     "slug": "splitbrain-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 763,
-    "timeWeek": 800,
-    "timeMonth": 789,
-    "timeYear": 775,
-    "dailyMinutesDown": {}
+    "time": 771,
+    "timeDay": 648,
+    "timeWeek": 773,
+    "timeMonth": 781,
+    "timeYear": 771,
+    "dailyMinutesDown": {
+      "2025-07-16": 0
+    }
   },
   {
     "name": "indieblog.page",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 923,
     "timeDay": 587,
-    "timeWeek": 837,
+    "timeWeek": 833,
     "timeMonth": 1014,
     "timeYear": 923,
     "dailyMinutesDown": {}

@@ -40,19 +40,19 @@
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 624,
-    "timeDay": 427,
-    "timeWeek": 565,
-    "timeMonth": 620,
+    "timeDay": 549,
+    "timeWeek": 578,
+    "timeMonth": 622,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2026-01-28": 1
+      "2026-01-28": 14
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://man.cx",
     "icon": "https://icons.duckduckgo.com/ip3/man.cx.ico",
     "slug": "man-cx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 460,
-    "timeWeek": 639,
-    "timeMonth": 736,
-    "timeYear": 762,
+    "time": 818,
+    "timeDay": 7714,
+    "timeWeek": 2430,
+    "timeMonth": 1181,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2026-01-28": 1
+      "2026-01-28": 14
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://fedi.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.splitbrain.org.ico",
     "slug": "goto-social",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 675,
-    "timeWeek": 740,
+    "timeDay": 727,
+    "timeWeek": 745,
     "timeMonth": 767,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2026-01-28": 0
+      "2026-01-28": 14
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://i.haz.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/i.haz.wiki.ico",
     "slug": "wiki-farm",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 826,
-    "timeDay": 799,
-    "timeWeek": 754,
-    "timeMonth": 783,
+    "timeDay": 806,
+    "timeWeek": 761,
+    "timeMonth": 784,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2026-01-28": 0
+      "2026-01-28": 14
     }
   }
 ]

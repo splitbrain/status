@@ -42,18 +42,16 @@
     "slug": "commie-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
     "timeDay": 549,
     "timeWeek": 578,
     "timeMonth": 622,
     "timeYear": 624,
-    "dailyMinutesDown": {
-      "2026-01-28": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "man.cx",
@@ -62,18 +60,16 @@
     "slug": "man-cx",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 818,
     "timeDay": 7714,
     "timeWeek": 2430,
     "timeMonth": 1181,
     "timeYear": 818,
-    "dailyMinutesDown": {
-      "2026-01-28": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GotoSocial",
@@ -82,18 +78,16 @@
     "slug": "goto-social",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
     "timeDay": 727,
     "timeWeek": 745,
     "timeMonth": 767,
     "timeYear": 787,
-    "dailyMinutesDown": {
-      "2026-01-28": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki Farm",
@@ -102,17 +96,15 @@
     "slug": "wiki-farm",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
     "timeDay": 806,
     "timeWeek": 761,
     "timeMonth": 784,
     "timeYear": 826,
-    "dailyMinutesDown": {
-      "2026-01-28": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]

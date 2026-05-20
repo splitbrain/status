@@ -40,19 +40,19 @@
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "87.91%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.97%",
     "time": 605,
-    "timeDay": 339,
-    "timeWeek": 428,
-    "timeMonth": 518,
+    "timeDay": 416,
+    "timeWeek": 443,
+    "timeMonth": 519,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-05-20": 0
+      "2026-05-20": 174
     }
   },
   {

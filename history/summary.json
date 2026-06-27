@@ -40,11 +40,11 @@
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 595,
     "timeDay": 429,
@@ -52,7 +52,8 @@
     "timeMonth": 512,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-05-20": 174
+      "2026-05-20": 174,
+      "2026-06-27": 5
     }
   },
   {
@@ -78,9 +79,9 @@
     "url": "https://fedi.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.splitbrain.org.ico",
     "slug": "goto-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +90,9 @@
     "timeWeek": 605,
     "timeMonth": 673,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-27": 0
+    }
   },
   {
     "name": "Wiki Farm",

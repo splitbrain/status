@@ -40,20 +40,20 @@
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
-    "time": 595,
-    "timeDay": 429,
-    "timeWeek": 480,
-    "timeMonth": 512,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 643,
+    "timeDay": 10154,
+    "timeWeek": 2904,
+    "timeMonth": 1118,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2026-05-20": 174,
-      "2026-06-27": 5
+      "2026-06-27": 29
     }
   },
   {
@@ -79,19 +79,19 @@
     "url": "https://fedi.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.splitbrain.org.ico",
     "slug": "goto-social",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 683,
-    "timeWeek": 605,
-    "timeMonth": 673,
-    "timeYear": 745,
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 793,
+    "timeDay": 10329,
+    "timeWeek": 3026,
+    "timeMonth": 1276,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2026-06-27": 0
+      "2026-06-27": 28
     }
   },
   {

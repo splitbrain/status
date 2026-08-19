@@ -4,56 +4,61 @@
     "url": "https://www.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.splitbrain.org.ico",
     "slug": "splitbrain-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 767,
-    "timeDay": 626,
-    "timeWeek": 600,
-    "timeMonth": 732,
-    "timeYear": 765,
-    "dailyMinutesDown": {}
+    "timeDay": 545,
+    "timeWeek": 583,
+    "timeMonth": 724,
+    "timeYear": 764,
+    "dailyMinutesDown": {
+      "2026-08-19": 1
+    }
   },
   {
     "name": "indieblog.page",
     "url": "https://indieblog.page",
     "icon": "https://icons.duckduckgo.com/ip3/indieblog.page.ico",
     "slug": "indieblog-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 409,
-    "timeWeek": 496,
-    "timeMonth": 551,
+    "timeDay": 436,
+    "timeWeek": 492,
+    "timeMonth": 548,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-19": 1
+    }
   },
   {
     "name": "commie.io",
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 635,
-    "timeDay": 536,
-    "timeWeek": 497,
-    "timeMonth": 572,
-    "timeYear": 636,
+    "timeDay": 499,
+    "timeWeek": 493,
+    "timeMonth": 568,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2026-05-20": 174,
-      "2026-06-27": 29
+      "2026-06-27": 29,
+      "2026-08-19": 1
     }
   },
   {
@@ -61,37 +66,40 @@
     "url": "https://man.cx",
     "icon": "https://icons.duckduckgo.com/ip3/man.cx.ico",
     "slug": "man-cx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 540,
-    "timeWeek": 490,
-    "timeMonth": 708,
-    "timeYear": 769,
-    "dailyMinutesDown": {}
+    "time": 777,
+    "timeDay": 501,
+    "timeWeek": 486,
+    "timeMonth": 700,
+    "timeYear": 768,
+    "dailyMinutesDown": {
+      "2026-08-19": 1
+    }
   },
   {
     "name": "GotoSocial",
     "url": "https://fedi.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.splitbrain.org.ico",
     "slug": "goto-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 778,
-    "timeDay": 501,
-    "timeWeek": 595,
-    "timeMonth": 666,
-    "timeYear": 784,
+    "timeDay": 509,
+    "timeWeek": 585,
+    "timeMonth": 662,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2026-06-27": 28
+      "2026-06-27": 28,
+      "2026-08-19": 1
     }
   },
   {
@@ -99,17 +107,19 @@
     "url": "https://i.haz.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/i.haz.wiki.ico",
     "slug": "wiki-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 582,
-    "timeWeek": 627,
-    "timeMonth": 696,
-    "timeYear": 761,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 520,
+    "timeWeek": 606,
+    "timeMonth": 688,
+    "timeYear": 760,
+    "dailyMinutesDown": {
+      "2026-08-19": 0
+    }
   }
 ]

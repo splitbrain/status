@@ -4,19 +4,19 @@
     "url": "https://www.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.splitbrain.org.ico",
     "slug": "splitbrain-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 545,
-    "timeWeek": 583,
-    "timeMonth": 724,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 766,
+    "timeDay": 562,
+    "timeWeek": 585,
+    "timeMonth": 720,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2026-08-19": 1
+      "2026-08-19": 39
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://indieblog.page",
     "icon": "https://icons.duckduckgo.com/ip3/indieblog.page.ico",
     "slug": "indieblog-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 436,
-    "timeWeek": 492,
-    "timeMonth": 548,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 592,
+    "timeDay": 432,
+    "timeWeek": 484,
+    "timeMonth": 544,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2026-08-19": 1
+      "2026-08-19": 38
     }
   },
   {
@@ -44,21 +44,21 @@
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 635,
-    "timeDay": 499,
-    "timeWeek": 493,
-    "timeMonth": 568,
-    "timeYear": 635,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
+    "time": 634,
+    "timeDay": 468,
+    "timeWeek": 483,
+    "timeMonth": 563,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-05-20": 174,
       "2026-06-27": 29,
-      "2026-08-19": 1
+      "2026-08-19": 38
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://man.cx",
     "icon": "https://icons.duckduckgo.com/ip3/man.cx.ico",
     "slug": "man-cx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 501,
-    "timeWeek": 486,
-    "timeMonth": 700,
-    "timeYear": 768,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 776,
+    "timeDay": 480,
+    "timeWeek": 481,
+    "timeMonth": 692,
+    "timeYear": 767,
     "dailyMinutesDown": {
-      "2026-08-19": 1
+      "2026-08-19": 38
     }
   },
   {
@@ -86,20 +86,20 @@
     "url": "https://fedi.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.splitbrain.org.ico",
     "slug": "goto-social",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 778,
-    "timeDay": 509,
-    "timeWeek": 585,
-    "timeMonth": 662,
+    "time": 777,
+    "timeDay": 570,
+    "timeWeek": 597,
+    "timeMonth": 663,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2026-06-27": 28,
-      "2026-08-19": 1
+      "2026-08-19": 38
     }
   },
   {
@@ -107,19 +107,19 @@
     "url": "https://i.haz.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/i.haz.wiki.ico",
     "slug": "wiki-farm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 783,
-    "timeDay": 520,
-    "timeWeek": 606,
-    "timeMonth": 688,
+    "timeDay": 542,
+    "timeWeek": 604,
+    "timeMonth": 685,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2026-08-19": 0
+      "2026-08-19": 37
     }
   }
 ]

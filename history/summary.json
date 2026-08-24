@@ -4,19 +4,20 @@
     "url": "https://www.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.splitbrain.org.ico",
     "slug": "splitbrain-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 765,
-    "timeDay": 823,
-    "timeWeek": 623,
-    "timeMonth": 713,
-    "timeYear": 762,
+    "time": 764,
+    "timeDay": 584,
+    "timeWeek": 595,
+    "timeMonth": 702,
+    "timeYear": 760,
     "dailyMinutesDown": {
-      "2026-08-19": 39
+      "2026-08-19": 39,
+      "2026-08-24": 1
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://indieblog.page",
     "icon": "https://icons.duckduckgo.com/ip3/indieblog.page.ico",
     "slug": "indieblog-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 592,
-    "timeDay": 683,
-    "timeWeek": 522,
-    "timeMonth": 551,
+    "timeDay": 511,
+    "timeWeek": 504,
+    "timeMonth": 545,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2026-08-19": 38
+      "2026-08-19": 38,
+      "2026-08-24": 1
     }
   },
   {
@@ -44,21 +46,22 @@
     "url": "https://commie.io",
     "icon": "https://icons.duckduckgo.com/ip3/commie.io.ico",
     "slug": "commie-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 633,
-    "timeDay": 505,
-    "timeWeek": 530,
-    "timeMonth": 568,
-    "timeYear": 634,
+    "timeDay": 421,
+    "timeWeek": 511,
+    "timeMonth": 561,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2026-05-20": 174,
       "2026-06-27": 29,
-      "2026-08-19": 38
+      "2026-08-19": 38,
+      "2026-08-24": 1
     }
   },
   {
@@ -66,19 +69,20 @@
     "url": "https://man.cx",
     "icon": "https://icons.duckduckgo.com/ip3/man.cx.ico",
     "slug": "man-cx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 774,
-    "timeDay": 637,
-    "timeWeek": 534,
-    "timeMonth": 691,
-    "timeYear": 767,
+    "time": 773,
+    "timeDay": 491,
+    "timeWeek": 515,
+    "timeMonth": 680,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2026-08-19": 38
+      "2026-08-19": 38,
+      "2026-08-24": 1
     }
   },
   {
@@ -86,20 +90,21 @@
     "url": "https://fedi.splitbrain.org",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.splitbrain.org.ico",
     "slug": "goto-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 776,
-    "timeDay": 694,
-    "timeWeek": 619,
-    "timeMonth": 668,
-    "timeYear": 782,
+    "time": 775,
+    "timeDay": 535,
+    "timeWeek": 595,
+    "timeMonth": 659,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2026-06-27": 28,
-      "2026-08-19": 38
+      "2026-08-19": 38,
+      "2026-08-24": 0
     }
   },
   {
@@ -107,19 +112,20 @@
     "url": "https://i.haz.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/i.haz.wiki.ico",
     "slug": "wiki-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 782,
-    "timeDay": 911,
-    "timeWeek": 631,
-    "timeMonth": 678,
-    "timeYear": 757,
+    "time": 781,
+    "timeDay": 624,
+    "timeWeek": 602,
+    "timeMonth": 668,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2026-08-19": 37
+      "2026-08-19": 37,
+      "2026-08-24": 0
     }
   }
 ]

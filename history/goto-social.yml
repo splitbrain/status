@@ -1,7 +1,7 @@
 url: https://fedi.splitbrain.org
-status: up
-code: 200
-responseTime: 562
-lastUpdated: 2026-11-01T01:59:20.346Z
+status: down
+code: 404
+responseTime: 418
+lastUpdated: 2026-11-01T20:45:30.758Z
 startTime: 2025-05-26T14:40:24.125Z
 generator: Upptime <https://github.com/upptime/upptime>
